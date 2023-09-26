@@ -1,3 +1,4 @@
 baseURL = 'https://opencamp.cc/'
 languageCode = 'en-us'
 title = 'open camp'
+theme = 'hugo-book'
