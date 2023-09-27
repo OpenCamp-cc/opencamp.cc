@@ -4,6 +4,8 @@ bookFlatSection: true
 title: "FAQs"
 ---
 
+[![open camp logo](/logo.png)](/)
+
 ## FAQ
 
 **Students**
@@ -72,3 +74,7 @@ title: "FAQs"
 **I have other questions!**
 
 Please send in your questions to applications@opencamp.cc and we’ll be happy to help answer your questions.
+
+---
+
+[Learn more about open camp and Cohort #0](/)

@@ -4,6 +4,8 @@ bookFlatSection: true
 title: "Build Together"
 ---
 
+[![open camp logo](/logo.png)](/)
+
 ## Building open camp Together
 
 One of the key principles of open camp is "**open**".
@@ -23,3 +25,6 @@ one of the following channels:
 We welcome anyone from beginners to programming to software developers and
 leaders to join us any of our Build Together calls.
 
+---
+
+[Learn more about open camp and Cohort #0](/)

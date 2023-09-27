@@ -4,6 +4,8 @@ bookFlatSection: true
 title: "Upcoming Schedule"
 ---
 
+[![open camp logo](/logo.png)](/)
+
 ## Upcoming Schedule
 
 
@@ -26,3 +28,6 @@ one of the following channels:
 - Discord: [open camp server](https://discord.gg/JVQVhQmQzk)
 - X (formerly Twitter): [@opencampcc](https://twitter.com/opencampcc)
 
+---
+
+[Learn more about open camp and Cohort #0](/)

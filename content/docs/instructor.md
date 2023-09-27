@@ -4,6 +4,9 @@ bookFlatSection: true
 title: "Instructor Profile"
 ---
 
+
+[![open camp logo](/logo.png)](/)
+
 ## Instructor Profile
 
 Name: Victor Neo
@@ -50,3 +53,7 @@ industry for a chance at a career that they will enjoy for life.
 - Favourite Programming Language: Python
 - Started Programming since: 15 years old, back in 2003
 - PC or Console Gaming: Consoles!
+
+---
+
+[Learn more about open camp and Cohort #0](/)
