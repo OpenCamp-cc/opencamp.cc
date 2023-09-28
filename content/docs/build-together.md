@@ -14,6 +14,8 @@ Apart from open sourcing any custom materials or projects that we have
 developed, we intend to develop our curriculum or learning materials publicly
 as well.
 
+All our materials can be found on Github at [opencamp-cc](https://github.com/opencamp-cc).
+
 If you would like to participate in this process, either as viewer or as an
 active contributor, you can join us our discussions or our live discussions via
 one of the following channels:
