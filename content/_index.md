@@ -20,17 +20,18 @@ tech industry for a chance at a career that they will enjoy for life.
 
 Any materials that we develop for open camp will be open source and available
 for anyone to reference and use. Our live sessions are recorded and free
-available for all to listen even if they are not part of a cohort. Everyone is 
-are welcome to join our community and participate.
+available for all to listen even if they are not part of a cohort. Everyone is
+welcome to join and participate in our community.
 
 <--->
 
 ## Challenging
 
 Unlike traditional schools where you are taught by lecturers, we
-adopt a flipped classroom model at open camp. You will be reviewing materials
-by yourself, sharing your findings with peers, and discussing materials and
-clarifying them with the instructors.
+adopt a flipped classroom model at open camp. Each week, you will be reviewing
+new materials, sharing your findings with peers, and work on assignments
+that will be peer-reviewed and also reviewed by the instructors.
+
 
 <--->
 
@@ -162,7 +163,7 @@ Toggle each of the following phases to learn more about what will be covered.
     - All: Personal Projects #2, optionally project #3
         - These may be completed after the Bootcamp if the scope of the projects are big.
 
-Computer Science (CS) Fundamentals such as Data Structures and Algorithms will be covered on a weekly basis from the start of the Bootcamp til the end.
+Computer Science (CS) Fundamentals such as Data Structures and Algorithms will be covered on a weekly basis.
 
 ## Tuition Fees
 
@@ -176,21 +177,22 @@ via a one-time payment.
 At the moment, we support payment by Debit / Credit Cards, and bank transfers.
 Additional local payment options may be available for students in Singapore.
 
-**Financial Sponsorship: Pay-it-forward with time**
+**Financial Sponsorship: Pay-with-time**
 
-While we strive to keep the tuition fees for the Bootcamp affordable, we
-understand that it might still be out of reach for some potential students. We
+While we strive to keep the tuition fees for open camp low and affordable, we
+understand that it might still be out of reach for some prospective students. We
 do have an alternative payment option available for these students: no tuition
-fees but you will pay back it forward with your time to support future cohorts.
+fees but you will have to contribute your time after completing with bootcamp
+to support future cohorts.
 
-You will pay it forward by helping to guide students in future cohorts once you
-have secured your first internship or full-time employment. We will work with
-you to determine what’s the right amount of time and how you can best
-contribute back to the Bootcamp.
+This is similar to the pay-it-forward idea where you help to guide students in
+future cohorts once you have secured your first internship or full-time
+employment. We will work with you to determine what’s the right amount of time
+and how you can best contribute back to the Bootcamp.
 
-Regretfully, there is a cap on the number of students whom we can offer
+Regretfully, there is a limit on the number of students whom we can offer
 pay-it-forward sponsorship. Please let us know in the application email if you
-wish to apply for it.
+wish to apply for this.
 
 
 ## Applications for Cohort #0
@@ -204,7 +206,7 @@ wish to apply for it.
     - End: 12th July 2024
 - Cohort Size: 30 ~ 40 students
     
-    *Given the difficulty of open camp, we do expect some students to drop out.*
+    *Given the difficulty of open camp, we do expect some students to drop out throughout the 6 months.*
     
 - Our main language of instruction will be in English, and all learning materials that you are required to review will be in English as well
 
@@ -214,7 +216,7 @@ __Why #0?__ When programming, it is usual for us to counting from 0 instead of 1
 
 **Requirements for attending Cohort #0**
 
-- Have a stable internet connection capable of supporting video calls over Zoom or Google Meet
+- A stable internet connection capable of supporting video calls over Zoom or Google Meet
 - Laptop or Computer running Windows, macOS, or Linux
     - You will not be able to complete open camp with a phone or a tablet as you will be required to have a complete development environment.
 - Be able to commit at least 3-5 hours a day for reviewing materials, working on projects, and completing assignments
@@ -248,7 +250,7 @@ You will be notified within 2 weeks if you have been accepted into the upcoming 
 
 - Discord: [open camp server](https://discord.gg/JVQVhQmQzk)
 - X (formerly Twitter): [@opencampcc](https://twitter.com/opencampcc)
-- LinkedIn: []
+- LinkedIn: [open camp](https://www.linkedin.com/company/open-camp/)
 
 Prefer email updates? Drop us an empty email to applications@opencamp.cc and we
 will keep you in the loop on future updates.

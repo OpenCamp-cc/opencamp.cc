@@ -27,6 +27,7 @@ one of the following channels:
 
 - Discord: [open camp server](https://discord.gg/JVQVhQmQzk)
 - X (formerly Twitter): [@opencampcc](https://twitter.com/opencampcc)
+- LinkedIn: [open camp](https://www.linkedin.com/company/open-camp/)
 
 ---
 
