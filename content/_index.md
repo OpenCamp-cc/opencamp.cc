@@ -8,7 +8,7 @@ description: "open camp is a new online coding bootcamp that is open, challengin
 
 open camp is a new online coding bootcamp focused on training Software
 Developers focused on being **open**, **challenging**, and most importantly,
-**affordable:**
+**affordable**.
 
 Word of warning: open camp is not designed to be easy; it's designed to help
 highly motivated folks to challenge themselves to grow even faster and join the
