@@ -37,7 +37,7 @@ that will be peer-reviewed and also reviewed by the instructors.
 
 ## Affordable
 
-open camp will be affordable for everyone: the entire Bootcamp only
+open camp will be affordable for everyone: the entire bootcamp only
 costs a total of USD 660 / SGD 840 for 6 months (part-time, online). To keep
 costs low, we only use open source and free learning materials as part of our
 curriculum, coupled with our own set of assessments and materials that we will
@@ -49,11 +49,11 @@ Join us now for our very first cohort (Cohort #0) and be part of our new
 movement for an open coding bootcamp.
 
 
-## How is open camp different from other Bootcamps?
+## How is open camp different from other bootcamps?
 
 The goal of open camp is to develop a community of aspiring and junior Software
-Developers through a low-cost and affordable Coding Bootcamp. As such, we
-operate very differently from other Bootcamps which are either profit-centric
+Developers through a low-cost and affordable coding bootcamp. As such, we
+operate very differently from other bootcamps which are either profit-centric
 or venture-backed.
 
 Our Core Principles at open camp are:
@@ -72,13 +72,13 @@ will pursue this path as well.
 ## What’s the catch?
 
 To keep open camp affordable, there are a few notable differences from
-traditional Bootcamps or community colleges:
+traditional bootcamps or community colleges:
 
 - A flipped classroom instructional model is used for this course: you will be given a set of materials and tasks to complete prior to each live session where you will review them together with your peers and seek clarification from the instructor.
-- We will be using a variety of free or open source learning materials throughout the Bootcamp, coupled with our own assessment and learning materials.
+- We will be using a variety of free or open source learning materials throughout the bootcamp, coupled with our own assessment and learning materials.
 - open camp is conducted entirely online to minimize operational costs
 
-At the moment, we are conducting this Bootcamp in the GMT+8 timezone, and
+At the moment, we are conducting this bootcamp in the GMT+8 timezone, and
 students will need to join at least one live-session a week on Mondays from 7pm
 to 9pm (GMT+8), or Thursdays from 9am to 11am (GMT+8).
 
@@ -91,17 +91,17 @@ regions.
 We hope to offer open camp to more folks in different timezones in the future.
 
 
-## Open? Does that mean I can complete the Bootcamp by myself? Why should I pay for this Bootcamp?
+## Open? Does that mean I can complete the bootcamp by myself? Why should I pay for open camp?
 
-Yes, you can review the entire Bootcamp curriculum by yourself once we have
+Yes, you can review the entire bootcamp curriculum by yourself once we have
 finalised the first version of it after our first cohort (Cohort #0). These
 materials will be made available for anyone to use.
 
 There are a few reasons to choose to join open camp instead of self-studying:
 
-- **Structured Learning**: self-study can be challenging if you need to maintain the same level of discipline, and our weekly structured learning schedule can provide you with the motivation to achieve your career goal.
+- **Structured Cohort Learning**: self-study can be challenging if you need to maintain the same level of discipline, and our weekly structured learning schedule can provide you with the motivation to achieve your career goal.
 - **Weekly live sessions with instructors**: Our instructors will conduct weekly live sessions with students to review their progress, answer questions, and provide feedback on student projects. This will be held over web conferencing tools such as Zoom or Google Meet.
-- **Peer discussion and learning**: We strongly believe that peer learning and peer discussions is the key to helping everyone advance and grow faster. You will be part of a cohort of students who are also highly motivated to complete the entire Bootcamp. Discussions may happen over platforms such as Matrix, Discord, or forums.
+- **Peer discussion and learning**: We strongly believe that peer learning and peer discussions is the key to helping everyone advance and grow faster. You will be part of a cohort of students who are also highly motivated to complete the entire bootcamp. Discussions may happen over platforms such as Matrix, Discord, or forums.
 
 Not sure if this is for you? You are welcome to watch our recorded live
 sessions to audit the course or simply to study by yourself.
@@ -161,7 +161,7 @@ Toggle each of the following phases to learn more about what will be covered.
     - Frontend: React + Tailwind + Vercel
     - Backend: Docker + Cloud Deployment
     - All: Personal Projects #2, optionally project #3
-        - These may be completed after the Bootcamp if the scope of the projects are big.
+        - These may be completed after the bootcamp if the scope of the projects are big.
 
 Computer Science (CS) Fundamentals such as Data Structures and Algorithms will be covered on a weekly basis.
 
@@ -188,7 +188,7 @@ to support future cohorts.
 This is similar to the pay-it-forward idea where you help to guide students in
 future cohorts once you have secured your first internship or full-time
 employment. We will work with you to determine what’s the right amount of time
-and how you can best contribute back to the Bootcamp.
+and how you can best contribute back to the bootcamp.
 
 Regretfully, there is a limit on the number of students whom we can offer
 pay-it-forward sponsorship. Please let us know in the application email if you
