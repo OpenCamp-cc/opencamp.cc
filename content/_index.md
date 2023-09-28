@@ -18,11 +18,10 @@ tech industry for a chance at a career that they will enjoy for life.
 {{< columns >}}
 ## Open
 
-Any learning materials or projects that we develop for open camp will be open
-source and available for anyone to reference and use. Our live sessions are
-open for all to listen but only students in our cohort can participate in
-discussions. Prospective students are welcome to join our community and
-participate in the process.
+Any materials that we develop for open camp will be open source and available
+for anyone to reference and use. Our live sessions are recorded and free
+available for all to listen even if they are not part of a cohort. Everyone is 
+are welcome to join our community and participate.
 
 <--->
 
@@ -103,6 +102,9 @@ There are a few reasons to choose to join open camp instead of self-studying:
 - **Weekly live sessions with instructors**: Our instructors will conduct weekly live sessions with students to review their progress, answer questions, and provide feedback on student projects. This will be held over web conferencing tools such as Zoom or Google Meet.
 - **Peer discussion and learning**: We strongly believe that peer learning and peer discussions is the key to helping everyone advance and grow faster. You will be part of a cohort of students who are also highly motivated to complete the entire Bootcamp. Discussions may happen over platforms such as Matrix, Discord, or forums.
 
+Not sure if this is for you? You are welcome to watch our recorded live
+sessions to audit the course or simply to study by yourself.
+
 
 ## Sample Learning Schedule
 
@@ -119,7 +121,7 @@ all of your daily tasks and assignments.** Additional time will be given in the
 weekends for you to complete the weekly assignments and submit them by Sunday.
 
 Outside of the live sessions, questions and answers will be answered by the
-instructor(s) online via our online group chat.
+instructor(s) online via our online group chat for each cohort.
 
 Notes:
 
