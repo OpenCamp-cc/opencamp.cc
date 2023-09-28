@@ -88,7 +88,7 @@ Thursday sessions are generally more suitable for folks in the US after working
 hours, while Monday sessions are suitable for folks in the Asia-Pacific
 regions.
 
-We hope to offer open camp to more folks in different timezones in the future.
+We hope to offer open camp in more timezones in the future.
 
 
 ## Open? Does that mean I can complete the bootcamp by myself? Why should I pay for open camp?
@@ -102,9 +102,11 @@ There are a few reasons to choose to join open camp instead of self-studying:
 - **Structured Cohort Learning**: self-study can be challenging if you need to maintain the same level of discipline, and our weekly structured learning schedule can provide you with the motivation to achieve your career goal.
 - **Weekly live sessions with instructors**: Our instructors will conduct weekly live sessions with students to review their progress, answer questions, and provide feedback on student projects. This will be held over web conferencing tools such as Zoom or Google Meet.
 - **Peer discussion and learning**: We strongly believe that peer learning and peer discussions is the key to helping everyone advance and grow faster. You will be part of a cohort of students who are also highly motivated to complete the entire bootcamp. Discussions may happen over platforms such as Matrix, Discord, or forums.
+- **Assignment feedback**: You will receive personalized feedback from the instructors for each of your assignment and areas to improve, if any.
 
 Not sure if this is for you? You are welcome to watch our recorded live
-sessions to audit the course or simply to study by yourself.
+sessions to audit the course. Recordings will be available on our [schedule page](/docs/schedule)
+once Cohort #0 begins.
 
 
 ## Sample Learning Schedule
@@ -145,7 +147,9 @@ Name: Victor Neo
 ## Curriculum
 
 You will be learning Python, HTML, CSS, SQL, and JavaScript.
-In Phase 2 (approximately halfway through the course), you will pick a specialization and learn tools and frameworks specific to either Frontend or Backend.
+In Phase 2 (approximately halfway through the course), you will pick a
+specialization and learn tools and frameworks specific to either Frontend or
+Backend.
 
 Toggle each of the following phases to learn more about what will be covered.
 
@@ -163,7 +167,10 @@ Toggle each of the following phases to learn more about what will be covered.
     - All: Personal Projects #2, optionally project #3
         - These may be completed after the bootcamp if the scope of the projects are big.
 
-Computer Science (CS) Fundamentals such as Data Structures and Algorithms will be covered on a weekly basis.
+- Covered across all phases:
+    - Computer Science (CS) Fundamentals: Data Structures and Algorithms
+    - Soft Skills: Working in agile / scrum teams, working with PMs, Designers, etc.
+    - Career Planning: Understanding the Software Engineering Career Ladder and future options
 
 ## Tuition Fees
 
