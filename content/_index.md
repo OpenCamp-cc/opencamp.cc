@@ -1,6 +1,7 @@
 ---
 title: Introduction
 type: docs
+description: "open camp is a new online coding bootcamp that is open, challenging, and most importantly, affordable."
 ---
 
 [![open camp logo](/logo.png)](/)
@@ -240,4 +241,13 @@ Please send the following information via email:
     - What kind of projects are you hoping to build by the time your graduate? Give at least two examples and a clear description of why you hope to build them.
 
 You will be notified within 2 weeks if you have been accepted into the upcoming cohort.
+
+## Follow Us For Updates
+
+- Discord: [open camp server](https://discord.gg/JVQVhQmQzk)
+- X (formerly Twitter): [@opencampcc](https://twitter.com/opencampcc)
+- LinkedIn: []
+
+Prefer email updates? Drop us an empty email to applications@opencamp.cc and we
+will keep you in the loop on future updates.
 
