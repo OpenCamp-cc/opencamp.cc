@@ -27,11 +27,9 @@ welcome to join and participate in our community.
 
 ## Challenging
 
-Unlike traditional schools where you are taught by lecturers, we
-adopt a flipped classroom model at open camp. Each week, you will be reviewing
-new materials, sharing your findings with peers, and work on assignments
-that will be peer-reviewed and also reviewed by the instructors.
-
+open camp adopts a flipped classroom learning model. Each week, you will be
+reviewing assigned materials, sharing your findings with peers before working on
+challenging assignments that will be peer-reviewed and graded by the instructors.
 
 <--->
 
@@ -58,11 +56,11 @@ or venture-backed.
 
 Our Core Principles at open camp are:
 
-- **Open**: Any learning materials or projects that we develop for Open Camp will be open source and available for anyone to reference and use, and live sessions can be viewed by anyone with an internet connection.
-- **Guide**: We believe that guided instructions by experienced instructors coupled with self and peer learning is the key to equipping our graduates with real-world skills they need to succeed as a Software Developer.
+- **Open**: Use open source and materials that are accessible to all. All materials or projects that we develop for Open Camp will be open source and available for anyone to reference and use, and recorded live sessions can be viewed by anyone with an internet connection.
 - **Community-first**: Focus on building a self-supportive community of aspiring and junior Software Developers that connects our students and alumni with the broader tech communities.
-- **Cohort-based**: You will be part of a group of fellow motivated students in the same cohort following the same curriculum learning schedule.
-- **Accessible**: Provide access to the course to as many people as possible with a good learning experience, while ensuring that operational costs are covered.
+- **Cohort-based**: Peer learning is critical for motivation and pushing each other to achieve more. You will be part of a group of motivated students in the same cohort for peer learning and peer review.
+- **Challenging**: open camp is designed to be challenging; anyone can self-learn, but our assignments and homework are designed to challenge you and accelerate the development of your skills
+- **Affordablility**: Provide access to the course to as many people as possible with a good learning experience, while ensuring that operational costs are covered.
 
 Where possible, we will work towards further reducing the tuition fees without
 affecting the quality of our instruction in the future. In the future, if we
@@ -119,7 +117,7 @@ once Cohort #0 begins.
 - Friday: Algorithms and Data Structures + Weekly Review
 - Due Sunday evening: Submit Weekly Assignments / Project Updates
 
-**You must be able to dedicate at least 3-5 hours daily in order to complete
+**You must be able to dedicate at least 2-4 hours daily in order to complete
 all of your daily tasks and assignments.** Additional time will be given in the
 weekends for you to complete the weekly assignments and submit them by Sunday.
 
@@ -153,19 +151,19 @@ Backend.
 
 Toggle each of the following phases to learn more about what will be covered.
 
-- Phase 1: General Tools and Programming Skills (2 months)
+- Phase 1: General Tools and Programming Skills (2.5 months)
     - Git and Github
     - HTML and CSS
     - Python and JS fundamentals
-- Phase 2: Specialization (2 months)
+- Phase 2: Specialization (1.5 months)
     - Frontend: AJAX, SPAs, and React
     - Backend: Django + SQL
     - All: Personal Project #1
 - Phase 3: Further Specialization and Portfolio Building (2 months+)
     - Frontend: React + Tailwind + Vercel
     - Backend: Docker + Cloud Deployment
-    - All: Personal Projects #2, optionally project #3
-        - These may be completed after the bootcamp if the scope of the projects are big.
+    - All: Complete Personal Projects #2, optionally Project #3
+        - Project #2 may be completed after the bootcamp if the scope of the projects are big.
 
 - Covered across all phases:
     - Computer Science (CS) Fundamentals: Data Structures and Algorithms
@@ -226,7 +224,7 @@ __Why #0?__ When programming, it is usual for us to counting from 0 instead of 1
 - A stable internet connection capable of supporting video calls over Zoom or Google Meet
 - Laptop or Computer running Windows, macOS, or Linux
     - You will not be able to complete open camp with a phone or a tablet as you will be required to have a complete development environment.
-- Be able to commit at least 3-5 hours a day for reviewing materials, working on projects, and completing assignments
+- Be able to commit at least 2-4 hours a day for reviewing materials, working on projects, and completing assignments
 - Join at least one of our weekly live sessions either every Monday at 7pm (GMT+8) or Thursdays at 9am to 11am (GMT+8)
     - All sessions will be recorded, so you will only need to ensure that you show up for at least 1 of these sessions each week.
 

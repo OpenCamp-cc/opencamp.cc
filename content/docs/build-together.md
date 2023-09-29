@@ -27,6 +27,20 @@ one of the following channels:
 We welcome anyone from beginners to programming to software developers and
 leaders to join us any of our Build Together calls.
 
+## Guest Speakers
+
+We are actively looking for guest speakers to share their experience working in
+the tech industry with our students. Please reach out to victor@opencamp.cc
+if you are keen to share.
+
+## Using our materials
+
+Materials developed by open camp is designed to be usable and accessible by all,
+and we welcome other schools and bootcamps to use them.
+
+If you would explore running your own open camp in your city or timezone, please
+send an email to victor@opencamp.cc and we can discuss further.
+
 ---
 
 [Learn more about open camp and Cohort #0](/)
