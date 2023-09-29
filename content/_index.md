@@ -182,6 +182,9 @@ via a one-time payment.
 At the moment, we support payment by Debit / Credit Cards, and bank transfers.
 Additional local payment options may be available for students in Singapore.
 
+Our refund policy is designed to be simple: check out our [FAQ](/docs/faq) for
+more information.
+
 **Financial Sponsorship: Pay-with-time**
 
 While we strive to keep the tuition fees for open camp low and affordable, we

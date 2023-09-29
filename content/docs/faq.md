@@ -11,14 +11,14 @@ title: "FAQs"
 **Students**
 
 - What happens if I am not able to catch up with the course schedule?
-    
+
     You will be given up to 2 chances to catch up on assignments or tasks that
     you are unable to complete on schedule. Failure to do so may result in you
     being asked to leave the Bootcamp. We will refund you based on the amount
     you have paid via prorated refund calculations.
-    
+
 - What happens if I have a personal emergency?
-    
+
     We understand that personal emergencies may happen that may affect your
     ability to complete the course. Depending on the duration on the personal
     emergency, you may be allowed to continue with the course, or we will
@@ -53,21 +53,36 @@ title: "FAQs"
     to be notified once it has been decided, please drop an email to
     applications@opencamp.cc and we will send updates on future cohort to you.
 
+- What is the refund policy?
 
-    
+    - Before start of cohort: full refund [1]
+    - First 7 days: full refund [2]
+    - After the first 7 days: prorated refund by weeks [1] [2]
+
+    [1] We use Stripe to process payments, and Stripe does not refund service
+      charges when we issue a refund. We will refund you based on our refund
+      policy, minus these fees.
+
+    [2] Example of prorated refund:
+    - You request for a refund on week 2
+    - You have opted for a monthly payment and made your first payment prior to the start of the class
+    - Your refund will cover week 3 and week 4, minus Stripe fees (see [i])
+
+    If you have opted to pay for the entire bootcamp, your refunds will cover week 3, week 4, and the remaining 5 months, minus Stripe fees.
+
 
 **Companies or Sponsors**
 
 - Why should we hire from open camp graduates?
-    
+
     Unlike other Bootcamps, all learning and training materials used by open camp are open source and available for audit. Apart from technical skills, our students are required to gain proficiency in soft skills through peer sharing and discussions that will allow them to work successfully in modern software development teams.
-    
+
     If you are interested in discussing how open camp might be able to help your hiring needs, please reach out to Victor (victor@opencamp.cc) for a discussion.
-    
+
 - Are we able to sponsor students for open camp?
-    
+
     Thank you for supporting open camp. Yes, there are two sponsorship methods available:
-    
+
     - Tuition fee sponsorship: cover partial / full tuition fee for the student(s)
     - Hiring sponsorship: hire our graduates as interns or full-time employees and you can “refund” the tuition fee (partial / full) to our graduates directly, eg. sign-on bonus.
 
