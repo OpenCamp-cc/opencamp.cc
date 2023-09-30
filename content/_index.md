@@ -206,20 +206,25 @@ wish to apply for this.
 ## Applications for Cohort #0
 
 - Application Deadline: Sunday, 30th November 2023, 23:59 (GMT+8)
-    
-    *We may close applications early if we have reached the size of the cohort. Please apply early or you may need to wait for applications to open for the next cohort, which has yet to be determined.*
-    
+
+    *We may close applications early if we have reached the maximum size of the
+    cohort. Please apply early or you may need to wait for applications to open
+    for the next cohort, which has yet to be determined.*
+
 - Start and End dates:
     - Start: 8th January, 2024
     - End: 12th July 2024
-- Cohort Size: 30 ~ 40 students
-    
-    *Given the difficulty of open camp, we do expect some students to drop out throughout the 6 months.*
+- Cohort Size:
+    - Mininum to start: 15 students
+    - Maximum size: 35 ~ 40 students
+
+    *Given the difficulty of open camp, we do expect some students to drop out
+    throughout the 6 months.*
     
 - Our main language of instruction will be in English, and all learning materials that you are required to review will be in English as well
 
 
-__Why #0?__ When programming, it is usual for us to counting from 0 instead of 1.
+__Why #0?__ When programming, it is usual to counting from 0 instead of 1.
 
 
 **Requirements for attending Cohort #0**
