@@ -54,7 +54,7 @@ Developers through a low-cost and affordable coding bootcamp. As such, we
 operate very differently from other bootcamps which are either profit-centric
 or venture-backed.
 
-Our Core Principles at open camp are:
+Our core principles at open camp are:
 
 - **Open**: Use open source and materials that are accessible to all. All materials or projects that we develop for Open Camp will be open source and available for anyone to reference and use, and recorded live sessions can be viewed by anyone with an internet connection.
 - **Community-first**: Focus on building a self-supportive community of aspiring and junior Software Developers that connects our students and alumni with the broader tech communities.
@@ -118,7 +118,7 @@ once Cohort #0 begins.
 - Due Sunday evening: Submit Weekly Assignments / Project Updates
 
 **You must be able to dedicate at least 2-4 hours daily in order to complete
-all of your daily tasks and assignments.** Additional time will be given in the
+all of your daily tasks and assignments.** Additional time will be given during the
 weekends for you to complete the weekly assignments and submit them by Sunday.
 
 Outside of the live sessions, questions and answers will be answered by the
