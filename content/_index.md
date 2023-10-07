@@ -107,30 +107,6 @@ sessions to audit the course. Recordings will be available on our [schedule page
 once Cohort #0 begins.
 
 
-## Sample Learning Schedule
-
-**Part-time Bootcamp (6 months)**
-
-- Monday: Review Learning Materials + Peer Discussion + Live Session 1 in the evening at 7pm (GMT+8, Mandatory)
-- Wednesday: Review Learning Materials + Peer Discussion
-- Thursday: Review Learning Materials + Live Session 2 + Live Session 2 in the morning at 9am (GMT+8, Optional, recorded)
-- Friday: Algorithms and Data Structures + Weekly Review
-- Due Sunday evening: Submit Weekly Assignments / Project Updates
-
-**You must be able to dedicate at least 2-4 hours daily in order to complete
-all of your daily tasks and assignments.** Additional time will be given during the
-weekends for you to complete the weekly assignments and submit them by Sunday.
-
-Outside of the live sessions, questions and answers will be answered by the
-instructor(s) online via our online group chat for each cohort.
-
-Notes:
-
-- Some weeks may have a slightly different schedule. For example, we may host events such as hackathons to help you complete your projects, or we may invite external speakers to share their experience.
-- You are expected to dedicate time to complete weekly assignments and participate in peer discussions. Failure to do so may result in you being asked to leave the cohort.
-- **If you prefer a learning environment that is fully guided by instructors, you may wish to explore local bootcamps in your area instead.**
-
-
 ## Instructor Profile
 
 Name: Victor Neo
@@ -170,6 +146,10 @@ Toggle each of the following phases to learn more about what will be covered.
     - Soft Skills: Working in agile / scrum teams, working with PMs, Designers, etc.
     - Career Planning: Understanding the Software Engineering Career Ladder and future options
 
+
+[Check out how a weekly schedule looks like](/docs/schedule)
+
+
 ## Tuition Fees
 
 - Part-time: Total cost of USD 660 / SGD 840 for 6 months
@@ -205,59 +185,10 @@ wish to apply for this.
 
 ## Applications for Cohort #0
 
-- Application Deadline: Sunday, 30th November 2023, 23:59 (GMT+8)
+Application Deadline: Sunday, 30th November 2023, 23:59 (GMT+8)
 
-    *We may close applications early if we have reached the maximum size of the
-    cohort. Please apply early or you may need to wait for applications to open
-    for the next cohort, which has yet to be determined.*
+[Learn more about the application process and timeline](/docs/applications)
 
-- Start and End dates:
-    - Start: 8th January, 2024
-    - End: 12th July 2024
-- Cohort Size:
-    - Mininum to start: 15 students
-    - Maximum size: 35 ~ 40 students
-
-    *Given the difficulty of open camp, we do expect some students to drop out
-    throughout the 6 months.*
-    
-- Our main language of instruction will be in English, and all learning materials that you are required to review will be in English as well
-
-
-__Why #0?__ When programming, it is usual to counting from 0 instead of 1.
-
-
-**Requirements for attending Cohort #0**
-
-- A stable internet connection capable of supporting video calls over Zoom or Google Meet
-- Laptop or Computer running Windows, macOS, or Linux
-    - You will not be able to complete open camp with a phone or a tablet as you will be required to have a complete development environment.
-- Be able to commit at least 2-4 hours a day for reviewing materials, working on projects, and completing assignments
-- Join at least one of our weekly live sessions either every Monday at 7pm (GMT+8) or Thursdays at 9am to 11am (GMT+8)
-    - All sessions will be recorded, so you will only need to ensure that you show up for at least 1 of these sessions each week.
-
-
-[Check out what time 7pm GMT+8 is in your local timezone](https://www.timeanddate.com/worldclock/converter.html?iso=20240108T110000&p1=236&p2=179&p3=95&p4=224).
-
-[Check out what time 9am GMT+8 is in your local timezone](https://www.timeanddate.com/worldclock/converter.html?iso=20240111T010000&p1=236&p2=179&p3=95&p4=224).
-
-
-**Application Details**
-
-Please send the following information via email:
-
-***Email to: applications@opencamp.cc***
-
-- Your name
-- Your current location (Country or City)
-- Preferred Payment Method: Debit Card, Credit Card, or Bank Transfers
-- Financial assistance (pay-it-forward) if required: Yes or No
-- Written answers to the following questions:
-    - Why are you interested in joining open camp? How will open camp help you with your career aspirations?
-    - How much time are you able to dedicate to learning each week? Would you be able to dedicate more time if you are not able to catch up with the schedule?
-    - What kind of projects are you hoping to build by the time your graduate? Give at least two examples and a clear description of why you hope to build them.
-
-You will be notified within 2 weeks if you have been accepted into the upcoming cohort.
 
 ## Follow Us For Updates
 
