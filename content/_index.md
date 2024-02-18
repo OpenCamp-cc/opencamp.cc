@@ -6,6 +6,24 @@ description: "open camp is a new online coding bootcamp that is open, challengin
 
 [![open camp logo](/logo.png)](/)
 
+
+## Updates on open camp (Feb 2024)
+
+open camp is now on hiatus. Given the current economic climate and the existing
+tech landscape, I have decided that a new coding bootcamp is not what the
+market needs right now.
+
+Instead, I will be spending time on helping junior developers grow through
+volunteering with with organizations like JuniorDev.SG.
+
+open camp might be back someday. Until then, see you around!
+
+
+-- Victor
+
+
+## Introduction
+
 open camp is a new online coding bootcamp focused on training Software
 Developers focused on being **open**, **challenging**, and most importantly,
 **affordable**.
