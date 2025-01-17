@@ -14,7 +14,7 @@ title: "FAQs"
 
     You will be given up to 2 chances to catch up on assignments or tasks that
     you are unable to complete on schedule. Failure to do so may result in you
-    being asked to leave the Bootcamp. We will refund you based on the amount
+    being asked to leave the course. We will refund you based on the amount
     you have paid via prorated refund calculations.
 
 - What happens if I have a personal emergency?
@@ -23,40 +23,29 @@ title: "FAQs"
     ability to complete the course. Depending on the duration on the personal
     emergency, you may be allowed to continue with the course, or we will
     assist with transferring you to the next cohort. You may also request for a
-    pro-rated refund if you wish to drop out of the Bootcamp entirely.
-    
+    pro-rated refund if you wish to drop out of the course entirely.
+
 - When will the full curriculum be available?
-    
+
     We estimate that the draft version of our curriculum will be made available
-    around the Christmas period (Dec 2023), with the first complete version to
-    be available by July 2024 once Cohort #0 is complete.
+    around earlier February 2025, with the first complete version to
+    be available by May 2025 once Cohort #0 is complete.
 
     If you are interested in taking a look at the curriculum before it is ready,
     or just curious on how it is built, join us for one of our [Build Together
     sessions](/docs/build-together).
-    
-- Will open camp help with job placements?
-    
-    Not at the moment. Our goal is to ensure that you are industry-ready by
-    teaching real-world skills and building up a series of portfolio projects
-    to demonstrate your skills.
-    
-    We do hope to be able to do so in future as we build up relationships with
-    companies, tech recruiters, or recruitment agencies. We will also need to
-    acquire a formal recruitment license in order to provide job placement
-    opportunities for our graduates.
-
 
 - When will the next cohort begin?
-    
+
     We have yet to decide on when the next cohort will begin. If you would like
     to be notified once it has been decided, please drop an email to
     applications@opencamp.cc and we will send updates on future cohort to you.
 
 - What is the refund policy?
 
-    - Before start of cohort: full refund [1]
-    - First 7 days: full refund [2]
+    - 14 days or more before the start of cohort: full refund [1]
+    - 14 days or less before start of cohort: 90% refund [1]
+    - First 7 days: 75% refund [2]
     - After the first 7 days: prorated refund by weeks [1] [2]
 
     [1] We use Stripe to process payments, and Stripe does not refund service
@@ -68,23 +57,17 @@ title: "FAQs"
     - You have opted for a monthly payment and made your first payment prior to the start of the class
     - Your refund will cover week 3 and week 4, minus Stripe fees (see [i])
 
-    If you have opted to pay for the entire bootcamp, your refunds will cover week 3, week 4, and the remaining 5 months, minus Stripe fees.
+    If you have opted to pay for the entire course, your refunds will cover week 3, week 4, and the remaining weeks, minus Stripe fees.
 
 
 **Companies or Sponsors**
-
-- Why should we hire from open camp graduates?
-
-    Unlike other Bootcamps, all learning and training materials used by open camp are open source and available for audit. Apart from technical skills, our students are required to gain proficiency in soft skills through peer sharing and discussions that will allow them to work successfully in modern software development teams.
-
-    If you are interested in discussing how open camp might be able to help your hiring needs, please reach out to Victor (victor@opencamp.cc) for a discussion.
 
 - Are we able to sponsor students for open camp?
 
     Thank you for supporting open camp. Yes, there are two sponsorship methods available:
 
     - Tuition fee sponsorship: cover partial / full tuition fee for the student(s)
-    - Hiring sponsorship: hire our graduates as interns or full-time employees and you can “refund” the tuition fee (partial / full) to our graduates directly, eg. sign-on bonus.
+    - Hiring sponsorship: hire our graduates and you can “refund” the tuition fee (partial / full) to our graduates directly, eg. sign-on bonus.
 
 **I have other questions!**
 

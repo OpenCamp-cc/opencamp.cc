@@ -24,8 +24,8 @@ one of the following channels:
 - X (formerly Twitter): [@opencampcc](https://twitter.com/opencampcc)
 - [Upcoming Schedule](/docs/schedule) page
 
-We welcome anyone from beginners to programming to software developers and
-leaders to join us any of our Build Together calls.
+We welcome anyone from beginners to programming to experience software engineers
+and leaders to join us any of our Build Together calls.
 
 ## Guest Speakers
 
