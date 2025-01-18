@@ -42,7 +42,7 @@ develop over time.
 
 {{< /columns >}}
 
-Join us now for our very first Backend Cohort (Cohort #0, only 5 students) and
+Join us now for our very first [Backend Cohort][/docs/curriculum] (Cohort #0, only 5 students) and
 be part of our new movement for an open school for Software Engineers.
 
 
