@@ -15,6 +15,8 @@ title: "Upcoming Schedule"
     - End: 25th March, 2025
 - Cohort Size: 5 students
 
+[Learn more about our Backend Course](/docs/curriculum).
+
 [Apply for Cohort #0 here](/docs/applications).
 
 ## Sample Learning Schedule
