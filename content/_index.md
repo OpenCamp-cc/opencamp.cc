@@ -4,6 +4,13 @@ type: docs
 description: "open camp is a school for software engineers to level up their skills."
 ---
 
+
+# Applications for Backend Cohort #0 (March 2025) is now open
+
+Join us now for our very first [Backend Cohort](/docs/curriculum) (Cohort #0, only 5 students) and
+be part of our new movement for an open school for Software Engineers.
+
+
 [![open camp logo](/logo.png)](/)
 
 
@@ -42,8 +49,7 @@ develop over time.
 
 {{< /columns >}}
 
-Join us now for our very first Backend Cohort (Cohort #0, only 5 students) and
-be part of our new movement for an open school for Software Engineers.
+[Learn more about our courses here](/docs/curriculum).
 
 
 ## How is open camp different from other online schools?
@@ -86,13 +92,13 @@ We hope to offer open camp in more timezones in the future.
 
 ## Open? Does that mean I can complete the school by myself? Why should I pay for open camp?
 
-Yes, you can review the entire Backend curriculum by yourself once we have
+Yes, you can review the entire [Backend course](/docs/curriculum) by yourself once we have
 finalised the first version of it after our first cohort (Cohort #0). These
 materials will be made available for anyone to use.
 
 There are a few reasons to choose to join open camp instead of self-studying:
 
-- **Structured Cohort Learning**: self-study can be challenging if you need to maintain the same level of discipline, and our weekly structured learning schedule can provide you with the motivation to achieve your career goal.
+- **Structured Cohort Learning**: Self-studying can be challenging if you need to maintain the same level of discipline, and our weekly structured learning schedule can provide you with the motivation to achieve your career goal.
 - **Weekly live sessions with instructors**: Our instructors will conduct weekly live sessions with students to review their progress, answer questions, and provide feedback on student projects. This will be held over web conferencing tools such as Zoom or Google Meet.
 - **Peer discussion and learning**: We strongly believe that peer learning and peer discussions is the key to helping everyone advance and grow faster. You will be part of a cohort of students who are also highly motivated to complete the entire course. Discussions may happen over platforms such as Matrix, Discord, or forums.
 - **Assignment feedback**: You will receive personalized feedback from the instructors for each of your assignment and areas to improve, if any.
@@ -108,9 +114,9 @@ Name: Victor Neo
 
 [Learn more about Victor](/docs/instructor)
 
-## Curriculum
+## Courses and Curriculum
 
-To be updated
+[See our upcoming courses and curriculum](/docs/curriculum).
 
 
 ## Tuition Fees
