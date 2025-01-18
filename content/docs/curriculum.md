@@ -60,6 +60,15 @@ Requirements:
 - Internet connection capable of joining our weekly Zoom calls
 - Access to Google Docs to share and feedback on Technical Documents
 
+#### Schedule for Cohort #0
+
+Start and End dates:
+    Start: 3rd March, 2025
+    End: 25th March, 2025
+Cohort Size: 5 students
+
+- Live lesson happens every Monday from 7pm ~ 9pm (SGT) via Zoom, starting from 3rd March 2025
+
 #### Course Fees
 
 open camp is designed to be affordable for everyone: the entire course only
