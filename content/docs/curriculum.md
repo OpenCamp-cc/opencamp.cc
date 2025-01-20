@@ -63,8 +63,9 @@ Requirements:
 #### Schedule for Cohort #0
 
 Start and End dates:
-    Start: 3rd March, 2025
-    End: 25th March, 2025
+- Start: 3rd March, 2025
+- End: 25th May, 2025
+
 Cohort Size: 5 students
 
 - Live lesson happens every Monday from 7pm ~ 9pm (SGT) via Zoom, starting from 3rd March 2025
