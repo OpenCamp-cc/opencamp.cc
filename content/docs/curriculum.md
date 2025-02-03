@@ -70,6 +70,8 @@ Cohort Size: 5 students
 
 - Live lesson happens every Monday from 7pm ~ 9pm (SGT) via Zoom, starting from 3rd March 2025
 
+You can view the schedule and detailed curriculum for this course on the [course's dedicated page][be-curriculum].
+
 #### Course Fees
 
 open camp is designed to be affordable for everyone: the entire course only
@@ -87,3 +89,5 @@ We are now accepting applications for our first cohort, Cohort #0 for our Backen
 
 Application Deadline: Saturday, 8th February 2025, 23:59 (GMT+8)
 
+
+[be-curriculum]: https://opencamp-cc.github.io/backend-curriculum/introduction.html
