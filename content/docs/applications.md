@@ -6,7 +6,7 @@ title: "Applications"
 
 [![open camp logo](/logo.png)](/)
 
-## Applications for Backend Cohort #0 is now Open
+## Applications for Backend Cohort #0 are now closed
 
 Application Deadline: Saturday, 8th February 2025, 23:59 (GMT+8)
 

@@ -17,15 +17,6 @@ For our courses, we are focused on the following themes:
 
 ## Backend Course
 
-#### Cohort #0 (March 2025) Now Open
-
-We are now accepting applications for our first cohort, Cohort #0 for our Backend course.
-
-[Apply here](/docs/applications).
-
-Application Deadline: Saturday, 8th February 2025, 23:59 (GMT+8)
-
-
 #### Backend Course Information
 
 Our Backend curriculum is designed for Software Engineers with 1-2 years of
@@ -60,13 +51,20 @@ Requirements:
 - Internet connection capable of joining our weekly Zoom calls
 - Access to Google Docs to share and feedback on Technical Documents
 
+#### Course Slides
+
+You can view our slides for the backend course over on our [Google Drive][slides].
+
+The slides are licensed under [CC BY-NC 4.0][cc].
+
+
 #### Schedule for Cohort #0
 
 Start and End dates:
 - Start: 3rd March, 2025
 - End: 25th May, 2025
 
-Cohort Size: 5 students
+Cohort Size: ~~5 students~~ All five slots have been taken up.
 
 - Live lesson happens every Monday from 7pm ~ 9pm (SGT) via Zoom, starting from 3rd March 2025
 
@@ -83,11 +81,10 @@ develop over time.
 
 #### Cohort #0
 
-We are now accepting applications for our first cohort, Cohort #0 for our Backend course.
+We are no longer accepting applications for our first cohort, Cohort #0 for our Backend course.
 
-[Apply here](/docs/applications).
-
-Application Deadline: Saturday, 8th February 2025, 23:59 (GMT+8)
-
+If you would like to be informed on when Cohort #1 opens up, please let us know via email at [applications@opencamp.cc](mailto:applications@opencamp.cc).
 
 [be-curriculum]: https://opencamp-cc.github.io/backend-curriculum/introduction.html
+[slides]: https://drive.google.com/drive/folders/1DYdLKXtAOnliy-pjsiim8JW99rSwe4_P?usp=sharing
+[cc]: https://creativecommons.org/licenses/by-nc/4.0/legalcode.en

@@ -4,13 +4,6 @@ type: docs
 description: "open camp is a school for software engineers to level up their skills."
 ---
 
-
-# Applications for Backend Cohort #0 (March 2025) is now open
-
-Join us now for our very first [Backend Cohort](/docs/curriculum) (Cohort #0, only 5 students) and
-be part of our new movement for an open school for Software Engineers.
-
-
 [![open camp logo](/logo.png)](/)
 
 
@@ -150,10 +143,6 @@ Regretfully, there is a limit on the number of students whom we can offer
 pay-it-forward sponsorship. Please let us know in the application email if you
 wish to apply for this.
 
-
-## Applications for Cohort #0
-
-Application Deadline: Sunday, 9th February 2025, 23:59 (GMT+8)
 
 [Learn more about the application process and timeline](/docs/applications)
 
