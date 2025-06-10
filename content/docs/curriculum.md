@@ -1,3 +1,12 @@
+---
+weight: 3
+bookFlatSection: true
+title: "Curriculum"
+---
+
+[![open camp logo](/logo.png)](/)
+
+## FAQ
 # Courses and Curriculum
 
 open camp is an online school focused on training Software
